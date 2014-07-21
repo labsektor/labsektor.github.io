@@ -1,0 +1,290 @@
+input {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size : 0.8em;
+}
+div.insvb {
+  display : none;
+}
+img.cms_delete {
+  width : 1em;
+  height : 1em;
+}
+img.cms_lock {
+  width : 1em;
+  height : 1em;
+}
+img.cms_uplimg {
+  width : 1em;
+  height : 1em;
+}
+img.cms_green {
+  width : 1em;
+  height : 1em;
+}
+img.cms_red {
+  width : 1em;
+  height : 1em;
+}
+div.cms_delete_sib {
+  margin : auto 1.7em auto auto;
+}
+div.cms_delete_sib2 {
+  width : 15em;
+}
+div.cms_delete_hld {
+  margin : auto 0px auto auto;
+  width : 1.4em;
+  float : right;
+  display : none;
+}
+div.nwfrmRslt, div.nwfrmRslt > div {
+  display : none;
+}
+img.cms_edit {
+  width : 1.em;
+  height : 1em;
+}
+img.cms_undo {
+  width : 1em;
+  height : 1em;
+}
+img.cms_accept {
+  width : 1em;
+  height : 1em;
+}
+div.cpe {
+  display : none;
+  width : 100%;
+  margin : 0.2em 0;
+}
+div.cpe2 {
+  width : 100%;
+  margin : 0.2em 0;
+}
+span.cpe {
+  display : none;
+}
+div.cmsuld {
+  margin-right : 2.4em;
+  margin-left : 0.5em;
+}
+div.cmsuld2 {
+  float : right;
+}
+div.cmsuld3 {
+  float : right;
+}
+div.cmsuld3 input {
+  display : none;
+}
+input.cmsuld {
+  width : 100%;
+  background-color : transparent;
+  border-color : transparent;
+  cursor : default;
+}
+input.cmsuld2 {
+}
+div.tbhldr {
+  width : 80%;
+  min-width : 55em;
+  margin : 1em auto 1em auto;
+}
+div.nwfcfrm {
+  width : 80%;
+  min-width : 55em;
+  margin : 1em auto 1em auto;
+  display : none;
+}
+div.vfinsd {
+  display : none;
+  margin : 1em auto auto auto;
+}
+div.nfinsd {
+  
+}
+div.nwFacLbl {
+  width : 20%;
+  text-align : right;
+  margin : auto auto auto 0px;
+  float : left;
+}
+div.nwFacLblIn {
+  margin : auto 0.5em auto auto;
+}
+div.nwFacRow {
+  margin-bottom : 0.5em;
+}
+textarea.FacVal {
+  width : 100%;
+  border : 1px solid #000000;
+  background-color : #e4e0d8;
+}
+fieldset {
+  border : 1px solid #000000;
+}
+div.nwFacVal {
+  width : 80%;
+  text-align : left;
+  margin : auto 0px auto auto;
+}
+input.FacVal {
+  width : 100%;
+  border : 1px solid #000000;
+  background-color : #e4e0d8;
+}
+select.FacVal {
+  border : 1px solid #000000;
+  background-color : #e4e0d8;
+}
+div.ltrs {
+  font-weight : bold;
+  border : 1px solid #000000;
+  width : 80%;
+  min-width : 55em;
+  margin : 1em auto auto auto;
+}
+div.uhldr {
+  width : 100%;
+  border : 1px solid #000000;
+  margin : 1em auto auto auto;
+}
+div.nousrs {
+  margin : 1em auto 1em auto;
+}
+div.pgsc1 {
+  border : 1px solid #000000;
+  width : 5em;
+  margin : auto auto auto 0px;
+  float : left;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select : none;
+  font-weight : bold;
+}
+div.pgsc2 {
+  border : 1px solid #000000;
+  width : 5em;
+  margin : auto 0px auto auto;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-weight : bold;
+}
+div.pgslctr {
+  margin-top : 1em;
+}
+div.uhdr {
+  border-bottom : 1px solid #000000;
+}
+div.uftr {
+  border-top : 1px solid #000000;
+}
+
+div.uc1 {
+  width : 10%;
+  float : left;
+}
+div.uc2 {
+  width : 37%;
+  border-right : 1px solid #000000;
+  border-left : 1px solid #000000;
+  float : left;
+}
+div.uc2w {
+  width : 74%;
+  border-right : 1px solid #000000;
+  border-left : 1px solid #000000;
+  float : left;
+}
+div.uc3 {
+  width : 37%;
+  border-right : 1px solid #000000;
+  float : left;
+}
+div.uc4 {
+  float : left;
+  width : 15%;
+}
+
+div.ulevn {
+  background-color : #e0dcd4;
+}
+div.ulodd {
+  background-color : #ccc8c0;
+}
+
+
+a:link {
+  text-decoration : none;
+  color : #000000;
+}
+a:visited, a:active {
+  color : #000000;
+}
+a:hover {
+  color : #800000;
+}
+a.selLet {
+  text-decoration : underline;
+}
+a.pgsc {
+  display : block;
+  width : 100%;
+  height : 100%;
+}
+div.pgsc1:hover, div.pgsc2:hover {
+ border-color : #800000;
+ background-color : #e0e0e0;
+}
+div.nwItFr {
+  margin : auto;
+  width : 60%;
+  min-width : 55em;
+  padding : 1em 0px 1em 0px;
+}
+div.nwItFrEd {
+  margin : auto auto auto 0px;
+  width : 69%;
+  float : left;
+}
+div.nwItFrEd2 {
+  margin : auto auto auto 0px;
+  width : 49%;
+  float : left;
+}
+div.nwItFrSel {
+  width : 20%;
+  float : left;
+}
+div.nwItFrBut {
+  margin : auto 0px auto auto;
+  width : 29%;
+}
+div.nwItFrEdIn {
+  margin : auto 1em auto 1em;
+}
+div.nwItFrEdIn input {
+  width : 100%;
+}
+div.nwItFrButIn {
+  margin : auto 1em auto 1em;
+}
+div.nwItFrButIn input, div.nwItFrButIn select {
+  width : 100%;
+}
+div.arttab {
+
+}
+div.d_artena {
+  display : none;
+}
+form.flupf {
+  display : none;
+}

@@ -1,0 +1,109 @@
+
+div.menuPanel {
+  width : 100%;
+  min-height : 2em;
+  border-bottom : 1px solid #000000;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color : #404040;
+  background-color : #404040;
+  color : #e0e0e0;
+}
+
+div.menuPanel a:link, div.menuPanel a:visited, div.menuPanel a:active {
+  color :  #e0e0e0;
+  display : block;
+  width : 100%;
+  height : 100%;
+  text-decoration : none;
+}
+
+div.mainMenuItemElems a {
+  padding : 0.5em 0px;
+}
+
+div.menuPanel a:hover {
+  color :  #800000;
+  background-color : #808080;
+  display : block;
+  width : 100%;
+  height : 100%;
+}
+
+div.menuItemFunctionL a:link, div.menuItemFunctionL a:visited, div.menuItemFunctionL a:active, div.menuItemFunctionL a:hover {
+  border-radius : 0px 0px 1em 1em;
+}
+
+div.mainPanel {
+  
+}
+
+div.mainMenuItem {
+  width : 5.5em;
+  float : left;
+}
+
+div.mainMenuItemL {
+  
+}
+
+div.mainMenuItemElems {
+  float : left;
+  width : 9em;
+  position : absolute;
+  background-color : #404040;
+  visibility : hidden;
+  border-bottom : 1px solid #000000;
+  border-left : 1px solid #000000;
+  border-right : 1px solid #000000;
+  border-top : 1px solid #303030;
+  border-radius : 0px 0px 1em 1em;
+}
+
+div.mainMenuItem:hover div.mainMenuItemElems {
+  visibility : visible;
+}
+
+div.menuItemContainer {
+  
+}
+
+div.menuItemFunction {
+  
+}
+
+div.menuItemFunctionL {
+  
+}
+
+div.mainMenuItemCaptionL {
+  padding : 0.5em;
+  background-color : #404040;
+  color : #e0e0e0;
+  cursor : default;
+}
+
+div.mainMenuItemCaption {
+  padding : 0.5em;
+  cursor : default;
+  margin-left : 1px;
+  border-radius : 1em 1em 0px 0px;
+}
+
+div.mainMenuItemCaption a {
+  cursor : default;
+}
+
+div.mainMenuItemCaption:hover {
+  background-color : #808080;
+  color : #800000;
+}
+
+div.mainMenuItemCaption:hover a {
+  background-color : #808080;
+  color : #800000;
+}
