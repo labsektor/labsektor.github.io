@@ -2803,7 +2803,7 @@ textarea {
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
 	padding: 12px 10px 13px;
-	padding: 1rem;
+	padding: 1.2rem 1rem 1.3rem;
 	border: 0 none
 }
 .minict_wrapper.skin-grey {
@@ -6620,3 +6620,38 @@ img.mfp-img {
 	}
 }
 /*# sourceMappingURL=/public/css/main.css.map */
+
+
+.wrkhr{
+
+}
+.wrkhr .wrkhi {
+    padding-bottom: 1.5rem;
+
+}
+.wrkhr .wrkhi1a{
+    font-family: 'proxima-nova-n7',"proxima-nova",sans-serif;  font-weight: 700;
+
+    width: 20% !important;
+}
+.wrkhr .wrkhi2a{
+    width: 78.5% !important;
+
+}
+.wrkhr .wrkhi2a .FacVal:first-child{
+    margin-right: 15px;
+
+}
+.wrkhr .wrkhi2a .FacVal:nth-child(2){
+    margin-left: 15px;
+
+}
+.wrkhr .wrkhi2a select{
+
+}
+.wrkhr .wrkhi2a input{
+
+}
+.wrkhr .wrkhi2a label{
+
+}
