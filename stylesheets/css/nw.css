@@ -409,20 +409,20 @@ div.pr div.aph > div {
   background-color : #000000;
   color : #ffffff;
   float : left;
-  font-size : 0.9em;
 }
 div.pr div.aph > div:last-child {
   float : none;
 }
 div.pr div.aph a {
-  padding : 1em 0;
-  display : block;
-  width : 100%;
-  height : 100%;
-  color : #ffffff;
+  font-family: 'proxima-nova-n7',"proxima-nova",sans-serif;  font-weight: 700;
+  display: block;  
+  padding: 15px 63px;    color: #fff;  
+  text-align: center;  text-transform: uppercase;
 }
 div.pr div.aph a span {
+    font-family: 'proxima-nova-n7',"proxima-nova",sans-serif;  font-weight: 700;
 
+    word-wrap: break-word;
 }
 div.pr div.aph a:active {
   text-decoration : none;

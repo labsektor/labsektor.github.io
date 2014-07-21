@@ -6621,6 +6621,7 @@ img.mfp-img {
 }
 /*# sourceMappingURL=/public/css/main.css.map */
 
+/* Task #4284 */
 
 .wrkhr{
 
@@ -6653,5 +6654,10 @@ img.mfp-img {
 
 }
 .wrkhr .wrkhi2a label{
+
+}
+.tab-list>li>a {
+
+padding: 1.5rem 4rem !important;
 
 }
