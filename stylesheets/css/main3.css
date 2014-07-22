@@ -6674,7 +6674,6 @@ padding: 10px 10px;
 .user-profile-tab .user-points span{
 
 }
-
 .user-profile-tab .user-rank{
     font-size: 2rem;
 
@@ -6684,14 +6683,15 @@ padding: 10px 10px;
 }
 
 
-
-
-
-
 .user-visits-tab{
 
 }
-
 .user-favourite-tab{
 
+}
+.facility-profile-tab{
+
+}
+.facility-profile-tab .prf {
+display: inline-block !important;
 }
