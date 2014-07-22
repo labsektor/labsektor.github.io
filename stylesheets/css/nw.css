@@ -270,7 +270,7 @@ div.pr div.prf {
   margin : 0 auto auto auto;
 }
 div.pr div.prf1l {
-  width : 32%;
+  width: 11%;
   float : left;
   text-align : right;
   font-weight : bold;
@@ -279,7 +279,7 @@ div.pr div.prf1l {
 }
 div.pr div.prf1r {
   text-align : left;
-  width : 59%;
+  width: 28%;
   float : left;
 }
 div.pr div.prf1r div {
@@ -312,7 +312,7 @@ div.pr div.prf1r input {
   border-radius : 0.4em;
 }
 div.pr div.prf1h {
-  width : 63%;
+  width: 103%;
   float : left;
 }
 div.pr div.prf1b {
@@ -1066,4 +1066,16 @@ div.pr div.aptnwstl2 {
   width : 50%;
   margin : auto 0 auto auto;
   font-weight : bold;
+}
+
+.profile-data-info{
+display: inline-block;
+float: left;
+width: 30%;
+height: 120px;
+border: solid #eaeaea;
+border-width: 0.2rem;
+border-radius: .5rem;
+color: #bf1e2e;
+padding: 2rem !important;
 }
