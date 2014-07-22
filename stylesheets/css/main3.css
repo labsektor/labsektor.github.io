@@ -6661,9 +6661,30 @@ img.mfp-img {
 padding: 1.5rem 4rem !important;
 
 }
+
+
 .user-profile-tab #user-email{
 padding: 10px 10px;
 }
+.user-profile-tab .user-points{
+
+}
+.user-profile-tab .user-points span{
+
+}
+
+.user-profile-tab .user-rank{
+
+}
+.user-profile-tab .user-rank span{
+
+}
+
+
+
+
+
+
 .user-visits-tab{
 
 }
