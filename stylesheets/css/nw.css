@@ -84,7 +84,10 @@ div.pr div.mr a:hover {
   background-color : #f0f0f0;
 }
 div.pr div.pri {
-  margin : 0 auto 2em 0;
+  margin: 0 0 2em 43px;
+  display: inline-block;
+  float: left;
+  width: 95%;
 }
 div.pr div.prl {
   border-bottom : 1px solid #eaeaea;
@@ -193,14 +196,16 @@ div.pr div.sstn {
   margin : 1em auto;
 }
 div.pr div.pri1 {
-  width : 31%;
+  width: 27%;
   float : left;
 }
 div.pr div.pri2 {
-  width : 64%;
+  width: 64%;
   float : left;
-  margin : 0 auto auto 3%;
+  /* margin: 0 0 auto 1%; */
   text-align : left;
+  display: inline-block;
+  padding: 25px 35px;
 }
 div.pr div.pri1i img.prImg {
   max-width : 100%;
@@ -214,7 +219,7 @@ div.pr canvas {
   min-height : 1em;
 }
 div.pr div.pri1ii {
-  padding : 0.5em 0.5em 1em 0.5em;
+  padding: 1.5em 1.5em 1.5em 1.5em;
   border : 1px solid #dfdfdf;
   min-height: 178px;
 }
