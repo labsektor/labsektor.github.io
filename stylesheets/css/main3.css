@@ -6693,5 +6693,5 @@ padding: 10px 10px;
 
 }
 .facility-profile-tab div.pr div.prf {
-display: inline-block;
+display: inline-block !important;
 }
