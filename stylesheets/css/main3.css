@@ -3855,7 +3855,8 @@ ul.article-list li .article-image {
 .article-details p {
 	font-size: 15px;
 	font-size: 1.5rem;
-	line-height: 1.5
+	line-height: 1.5;
+	text-align: justify;
 }
 ul.article-list li .line-break {
 	bottom: 0;
