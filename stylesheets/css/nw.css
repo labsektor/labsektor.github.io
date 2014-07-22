@@ -301,8 +301,9 @@ div.pr div.prf1r div:last-child {
 }
 div.pr div.prf1l div {
   margin : 0;
-  padding: 12px 3px;
+  padding: 11px 3px;
   max-height : 1.2em;
+  font-size: 15px;
 }
 div.pr div.prf1l div:nth-child(even) {
   margin : 0.5em 0;
@@ -1085,4 +1086,5 @@ border-width: 0.2rem;
 border-radius: .5rem;
 color: #bf1e2e;
 padding: 2rem !important;
+text-align: left;
 }

@@ -6667,13 +6667,16 @@ padding: 1.5rem 4rem !important;
 padding: 10px 10px;
 }
 .user-profile-tab .user-points{
+    font-size: 2rem;
 
+    width: 32% !important;
 }
 .user-profile-tab .user-points span{
 
 }
 
 .user-profile-tab .user-rank{
+    font-size: 2rem;
 
 }
 .user-profile-tab .user-rank span{
