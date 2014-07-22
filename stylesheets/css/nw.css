@@ -216,6 +216,7 @@ div.pr canvas {
 div.pr div.pri1ii {
   padding : 0.5em 0.5em 1em 0.5em;
   border : 1px solid #dfdfdf;
+  min-height: 178px;
 }
 div.pr div.pri1r {
   position : relative;
@@ -1012,8 +1013,10 @@ div.emlsd2 .ta-c .btn.skin-red:hover{
 
 div.pr div.prfgal div.pri1 {
   width : 31%;
+  margin: 1.6% 1.1%;
   float : left;
-  margin : auto auto 2em auto;
+  /* margin : auto auto 2em auto; */
+  min-height: 206px;
 }
 div.pr div.ml5 {
   width : 80%;
