@@ -6692,6 +6692,6 @@ padding: 10px 10px;
 .facility-profile-tab{
 
 }
-.facility-profile-tab div.pr div.prf {
+.facility-profile-tab .prf {
 display: inline-block !important;
 }
