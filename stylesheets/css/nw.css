@@ -270,7 +270,7 @@ div.pr div.prf {
   margin : 0 auto auto auto;
 }
 div.pr div.prf1l {
-  width: 11%;
+  width: 19%;
   float : left;
   text-align : right;
   font-weight : bold;
@@ -283,20 +283,20 @@ div.pr div.prf1r {
   float : left;
 }
 div.pr div.prf1r div {
-  margin : 0 1em 0 0;
-  border-radius : 0.4em;
-  background-color : #eaeaea;
-  padding : 0.4em;
+  margin: 0 12px 0 0;
+  /* border-radius : 0.4em; */
+  /* background-color : #eaeaea; */
+  /* padding : 0.4em; */
 }
 div.pr div.prf1r div:nth-child(even) {
-  margin : 0.5em 1em 0.5em 0;
+  margin: 0.5em 12px 0.5em 0;
 }
 div.pr div.prf1r div:last-child {
   margin-bottom : 0;
 }
 div.pr div.prf1l div {
   margin : 0;
-  padding : 0.4em 0;
+  padding: 12px 3px;
   max-height : 1.2em;
 }
 div.pr div.prf1l div:nth-child(even) {
@@ -307,9 +307,11 @@ div.pr div.prf1l div:last-child {
 }
 div.pr div.prf1r input {
   width : 100%;
-  border : 1px solid #eaeaea;
   background-color : #eaeaea;
-  border-radius : 0.4em;
+  background: #eaeaea;  color: #000;  
+  border: 0px;  outline: none;    
+  padding: 11px 21px;  font-family: 'proxima-nova-n4',"proxima-nova",sans-serif;  font-weight: 400;  font-size: 16px;  font-size: 1.6rem;  -webkit-box-sizing: border-box;  -moz-box-sizing: border-box;  -ms-box-sizing: border-box;  box-sizing: border-box;  
+  /* border-radius: 5px; */  border-radius: .5rem;
 }
 div.pr div.prf1h {
   width: 103%;
@@ -1071,9 +1073,9 @@ div.pr div.aptnwstl2 {
 .profile-data-info{
 display: inline-block;
 float: left;
-width: 30%;
+width: 40%;
 height: 120px;
-border: solid #eaeaea;
+border: solid #eaeaea !important;
 border-width: 0.2rem;
 border-radius: .5rem;
 color: #bf1e2e;
