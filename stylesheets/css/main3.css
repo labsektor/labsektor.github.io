@@ -6664,12 +6664,11 @@ padding: 1.5rem 4rem !important;
 
 
 .user-profile-tab .user-email{
-padding: 10px 10px;
+	padding: 10px 10px;
 }
 .user-profile-tab .user-points{
-    font-size: 2rem;
-
-    width: 32% !important;
+    font-size: 17px;
+	width: 33.3% !important;
 }
 .user-profile-tab .user-points span{
 
