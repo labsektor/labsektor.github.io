@@ -6663,7 +6663,7 @@ padding: 1.5rem 4rem !important;
 }
 
 
-.user-profile-tab #user-email{
+.user-profile-tab .user-email{
 padding: 10px 10px;
 }
 .user-profile-tab .user-points{
