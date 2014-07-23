@@ -6703,6 +6703,12 @@ padding: 1.5rem 4rem !important;
 .facility-profile-tab{
 
 }
+.facility-profile-tab .name{
+	color: #bf1e2e;
+	font-weight: normal;
+	background: url("/img/ico-house-big.png") no-repeat 1px center;
+	padding: 70px 40px;
+}
 .facility-profile-tab .prf {
 display: inline-block !important;
 }
