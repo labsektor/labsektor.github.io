@@ -6709,6 +6709,9 @@ padding: 1.5rem 4rem !important;
 	background: url("/img/ico-house-big.png") no-repeat 1px center;
 	padding: 70px 40px;
 }
+.facility-profile-tab .facility-category-select{
+	
+}
 .facility-profile-tab .prf {
 display: inline-block !important;
 }
