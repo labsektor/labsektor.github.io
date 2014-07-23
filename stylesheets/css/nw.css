@@ -324,14 +324,14 @@ div.pr div.prf1h {
   float : left;
 }
 div.pr div.prf1b {
-  display : none;
-  color : #bf1e2e;
-  width : 29%;
+  display: inline-block;
+  color: #bf1e2e;
+  width: 40%;
   float : left;
   text-align : justify;
-  font-size : 0.9em;
-  padding : 0.5em;
-  border : 1px solid #eaeaea;
+  font-size: 16px;
+  padding: 19px;
+  border: solid #eaeaea;    border-width: 0.2rem;    border-radius: .5rem;
 }
 div.pr div.favil img.favImg {
   max-width : 100%;
