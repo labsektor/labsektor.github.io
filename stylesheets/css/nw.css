@@ -324,7 +324,7 @@ div.pr div.prf1h {
   float : left;
 }
 div.pr div.prf1b {
-  display: inline-block;
+  display: none;
   color: #bf1e2e;
   width: 40%;
   float : left;

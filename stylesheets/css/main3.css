@@ -6680,6 +6680,18 @@ padding: 1.5rem 4rem !important;
 .user-profile-tab .user-rank span{
 
 }
+.user-profile-tab .description{
+	display: inline-block;
+	color: #bf1e2e;
+	width: 40%;
+	float: left;
+	text-align: justify;
+	font-size: 16px;
+	padding: 19px;
+	border: solid #eaeaea;
+	border-width: 0.2rem;
+	border-radius: .5rem;
+}
 
 
 .user-visits-tab{
