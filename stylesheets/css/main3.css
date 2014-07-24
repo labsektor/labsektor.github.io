@@ -6769,11 +6769,18 @@ padding: 1.5rem 4rem !important;
 
 }
 .employees .empli2 a{
-
+	width: auto !important;
+	display: inline-block !important;
+	font-size: 16px;
+	padding: 0px 20px !important;
 }
 .employees .empli2 a{
 	padding: 0px !important;
 }
 .employees .empli2 span{
 	padding: 0px !important;
+}
+.employees .empli1,
+.employees .empli2{
+	padding: 10px 0px !important;
 }
