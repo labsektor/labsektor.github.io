@@ -6771,6 +6771,9 @@ padding: 1.5rem 4rem !important;
 .employees .empli2 a{
 
 }
-.employees .empli2 a span{
+.employees .empli2 a{
+	padding: 0px !important;
+}
+.employees .empli2 span{
 	padding: 0px !important;
 }
