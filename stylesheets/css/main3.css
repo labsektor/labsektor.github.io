@@ -6662,7 +6662,7 @@ padding: 1.5rem 4rem !important;
 
 }
 
-
+/* Poprawki w profilu użytkownika */
 .user-profile-tab .user-email{
 	padding: 10px 10px;
 }
@@ -6693,8 +6693,7 @@ padding: 1.5rem 4rem !important;
 	border-radius: .5rem;
 }
 
-
-
+/* Poprawki w profilu placówki */
 .facility-profile-tab{
 
 }
@@ -6723,5 +6722,9 @@ padding: 1.5rem 4rem !important;
 
 }
 .user-favourite-tab{
+
+}
+/* Poprawki w pojedyńczym artykule */
+.single-article{
 
 }
