@@ -6725,7 +6725,8 @@ padding: 1.5rem 4rem !important;
 
 }
 /* Poprawki w pojedyńczym artykule */
-.single-article{
+.single-article .intrsm:hover{
+	background: #8d0917;
 
 }
 .subtitle-wrapper{
