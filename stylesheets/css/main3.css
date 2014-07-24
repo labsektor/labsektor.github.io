@@ -6729,15 +6729,27 @@ padding: 1.5rem 4rem !important;
 
 }
 .subtitle-wrapper{
-
+    position: relative;
+    margin: 25px 0px;
 }
 
 .subtitle-wrapper .subtitle-text{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+    bottom: -15px;
 
 }
 .subtitle-wrapper .subtitle-text span{
-
+    background: #fff;
+    padding: 0px 40px;
+    color: #828282;
+    font-size: 24px;
 }
 .subtitle-wrapper .subtitle-line{
+    border-bottom: 1px solid #ccc;
 
 }
