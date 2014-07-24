@@ -4617,7 +4617,7 @@ ul.gallery.grid-3 li {
 }
 .register-success {
 	padding: 0 0 40px;
-	padding: 0 0 4rem;
+	padding: 4rem 0 4rem;
 	background: url('/img/bg/bg-brand_hero2.png') 0 bottom no-repeat;
 	/*background-size: contain*/
 }
@@ -6764,4 +6764,10 @@ padding: 1.5rem 4rem !important;
 .subtitle-wrapper .subtitle-line{
     border-bottom: 1px solid #ccc;
 
+}
+.employees .add{
+
+}
+.empleyees .empli2 a{
+	
 }
