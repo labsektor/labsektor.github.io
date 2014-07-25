@@ -6813,3 +6813,6 @@ padding: 1.5rem 4rem !important;
 .login label .column{
 	font-weight: bold;
 }
+.services .description {
+	padding-bottom: 0px !important;
+}
