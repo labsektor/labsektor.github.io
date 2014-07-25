@@ -2933,7 +2933,7 @@ form.login .email_info,
 form.login .password_info,
 form.login .passwordconfirm_info,
 form.login .submit_info{
-	display:none;
+	/* display:none; */
 }
 .form.login .register_rules{
 	text-align: left;
@@ -4620,7 +4620,7 @@ ul.gallery.grid-3 li {
 .register-success {
 	padding: 0 0 40px;
 	padding: 4rem 0 4rem;
-	background: url('/img/bg/bg-brand_hero2.png') 0 bottom no-repeat;
+	background: url('/img/bg/bg-brand_hero2.png') 42px bottom no-repeat;
 	/*background-size: contain*/
 }
 .register-success>.wrapper {
