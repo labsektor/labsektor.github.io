@@ -6791,11 +6791,18 @@ padding: 1.5rem 4rem !important;
 
 
 .login .login-box-1{
-	display: inline-block;
+    margin: 5px 0px;
+}
+.login .login-box-1 .field{
+	padding: 20px 0px !important; 
 }
 .login .login-box-1 label{
+    display: inline-block;  float: left;
 
 }
 .login .login-box-1 .url{
+    font-size: 14px;
 
+    display: inline-block;
+    float: right;
 }
