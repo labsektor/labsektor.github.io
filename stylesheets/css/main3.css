@@ -2933,7 +2933,7 @@ form.login .email_info,
 form.login .password_info,
 form.login .passwordconfirm_info,
 form.login .submit_info{
-	/* display:none; */
+	display:none;
 }
 .form.login .register_rules{
 	text-align: left;
