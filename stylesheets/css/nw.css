@@ -107,7 +107,8 @@ div.pr div.prt {
 div.pr div.prt span {
   background-color : #fefefe;
   padding : 0 1em;
-  font-size: 28px;
+  font-size: 30px;
+  font-weight: 300;
 }
 
 div.pr div.but1 {
