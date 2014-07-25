@@ -2912,6 +2912,8 @@ form.login .column {
 }
 form.login label.column {
 	width: 30%
+;
+	font-weight: bold;
 }
 form.login input[type="submit"] {
 	line-height: 1.5
@@ -6806,6 +6808,6 @@ padding: 1.5rem 4rem !important;
     display: inline-block;
     float: right;
 }
-.login .column{
-	font-weight: ;
+.login label .column{
+	font-weight: bold;
 }
