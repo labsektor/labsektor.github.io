@@ -6791,11 +6791,11 @@ padding: 1.5rem 4rem !important;
 
 
 .login .login-box-1{
-
+	display: inline-block;
 }
 .login .login-box-1 label{
 
 }
-.login .login-box-1 a{
-	
+.login .login-box-1 .url{
+
 }
