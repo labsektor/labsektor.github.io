@@ -6824,5 +6824,14 @@ img.mfp-img {
 .single-entry .mtt{
         margin-bottom: 0px;
 }
-.single-entry .meta span{}
-.single-entry .meta a{}
+.single-entry .meta span{
+    font-family: 'proxima-nova-n6',"proxima-nova",sans-serif;  
+    font-weight: 500;
+    color: #828282;  
+    font-size: 15px;
+}
+.single-entry .meta a{
+    font-family: 'proxima-nova-n7',"proxima-nova",sans-serif;  
+    font-weight: 700;  
+    color: #bf1e2e;
+}
