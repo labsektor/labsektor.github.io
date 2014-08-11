@@ -19,8 +19,15 @@ height: 115px;
 .encyclopedia{
 }
 .encyclopedia .category-grid>ul>li .category-item a img{
+width: 235px;
+height: 131px;
 }
+.encyclopedia .category-grid>ul>li .category-item p{
 
+}
+.encyclopedia .category-grid>ul>li .category-item p a{
+
+}
 /* ======== ZNALEZIONE INLINE'Y ======== */
 .homepage p a.underlined,
 .homepage p a.underlined:hover,
