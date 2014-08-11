@@ -3195,7 +3195,8 @@ section.featured.search form select{
     margin-right:1.7rem;
 }
 section.featured.home-search form button,
-section.featured.search form button{
+section.featured.search form button,
+section.featured.home-search form input[type="submit"]{
     background-color:#bf1e2e;
     border-color:#bf1e2e;
     padding-top:16px;
