@@ -799,7 +799,7 @@ html,body{
     width:2.9rem;
     height:29px;
     height:2.9rem;
-    background:transparent url("/public/images/icons/ico-house-big.png") 0 0 no-repeat;
+    background:transparent url("/../img/icons/ico-house-big.png") 0 0 no-repeat;
     background-size:contain;
 }
 .bordered{
@@ -1037,7 +1037,7 @@ a.image-wrapper-fit:hover{
 .btn.i-login:before{
     width:26px;
     width:2.6rem;
-    background-image:url("/public/images/icons/ico-login.png");
+    background-image:url("/../img/icons/ico-login.png");
 }
 .btn.i-description{
     padding-left:49px;
@@ -1046,7 +1046,7 @@ a.image-wrapper-fit:hover{
 .btn.i-description:before{
     width:14px;
     width:1.4rem;
-    background-image:url("/public/images/icons/ico-description-sm.png");
+    background-image:url("/../img/icons/ico-description-sm.png");
 }
 .btn.i-find-sm{
     padding-left:48px;
@@ -1056,7 +1056,7 @@ a.image-wrapper-fit:hover{
 .btn.i-find-sm:before{
     width:13px;
     width:1.3rem;
-    background-image:url("/public/images/icons/ico-find-sm.png");
+    background-image:url("/../img/icons/ico-find-sm.png");
 }
 .btn.disabled,
 .btn[disabled="disabled"],
@@ -1075,11 +1075,11 @@ a.image-wrapper-fit:hover{
     height:1.9rem;
     margin-right:10px;
     margin-right:1rem;
-    background:url("/public/images/bg/checkbox.png") center;
+    background:url("/../img/bg/checkbox.png") center;
     background-size:contain;
 }
 .toggle-checkbox.checked-checkbox{
-    background-image:url("/public/images/bg/checkbox-checked.png");
+    background-image:url("/../img/bg/checkbox-checked.png");
 }
 .toggle-checkbox.with-h3{
     margin-top:4px;
@@ -1098,11 +1098,11 @@ a.image-wrapper-fit:hover{
     height:1.9rem;
     margin-right:10px;
     margin-right:1rem;
-    background:url("/public/images/bg/radio.png") center;
+    background:url("/../img/bg/radio.png") center;
     background-size:contain;
 }
 .toggle-radio.checked-radio{
-    background-image:url("/public/images/bg/radio-checked.png");
+    background-image:url("/../img/bg/radio-checked.png");
 }
 .featured{
     background-color:#000;
@@ -1314,7 +1314,7 @@ a.image-wrapper-fit:hover{
     margin-bottom:2rem;
     position:relative;
     text-align:center;
-    background:url("/public/images/bg/hr.png") repeat-x center center;
+    background:url("/../img/bg/hr.png") repeat-x center center;
 }
 .line-break .element-holder{
     background:#fff;
@@ -1539,7 +1539,7 @@ button.skin-black:hover{
     color:#8d0917;
 }
 .results-grid ul li a.company-name:before{
-    content:url("/public/images/icons/ico-house.png") no-repeat;
+    content:url("/../img/icons/ico-house.png") no-repeat;
     position:relative;
     top:4px;
     top:0.4rem;
@@ -1612,7 +1612,7 @@ aside.slim{
 }
 a.facebook{
     display:block;
-    background:url("/public/images/icons/ico-fb.png") #3b5998 no-repeat center center;
+    background:url("/../img/icons/ico-fb.png") #3b5998 no-repeat center center;
     position:fixed;
     z-index:3;
     right:0;
@@ -1663,7 +1663,7 @@ header .subtitle,
 }
 header.striped,
 .header.striped{
-    background:url("/public/images/bg/hr.png") repeat-x center center;
+    background:url("/../img/bg/hr.png") repeat-x center center;
     text-align:center;
     margin-bottom:20px;
     margin-bottom:2rem;
@@ -1788,7 +1788,7 @@ header.striped.has-explanation .ico-info,
     height:1.7rem;
     margin-top:-9px;
     margin-top:-0.9rem;
-    background:url('/public/images/icons/ico-info-sm.png') no-repeat center center;
+    background:url('/../img/icons/ico-info-sm.png') no-repeat center center;
     background-size:contain;
     cursor:pointer;
 }
@@ -2121,7 +2121,7 @@ ul.pagination.last-page-element{
     width:1.7rem;
     height:17px;
     height:1.7rem;
-    background:transparent url('/public/images/icons/ico-info-sm.png') no-repeat center;
+    background:transparent url('/../img/icons/ico-info-sm.png') no-repeat center;
     background-size:contain;
     cursor:help;
 }
@@ -2283,7 +2283,7 @@ ul.pagination.last-page-element{
     width:10rem;
     height:100px;
     height:10rem;
-    background:transparent url('/public/images/bg/promote.png') 0 0 no-repeat;
+    background:transparent url('/../img/bg/promote.png') 0 0 no-repeat;
     background-size:contain;
 }
 .fav-list .image-wrapper{
@@ -2313,7 +2313,7 @@ ul.pagination.last-page-element{
     width:2.9rem;
     height:29px;
     height:2.9rem;
-    background:transparent url("/public/images/icons/ico-house-big.png") 0 0 no-repeat;
+    background:transparent url("/../img/icons/ico-house-big.png") 0 0 no-repeat;
     background-size:contain;
 }
 .fav-list .description .rating{
@@ -3135,12 +3135,12 @@ form.login p.no-account a{
     color:#bf1e2e;
 }
 #Header .user-account .user-menu ul li.link-profile a{
-    background-image:url("/public/images/icons/ico-profile-sm.png");
+    background-image:url("/../img/icons/ico-profile-sm.png");
     background-position:3px center;
     background-position:0.3rem center;
 }
 #Header .user-account .user-menu ul li.link-logout a{
-    background-image:url("/public/images/icons/ico-logout-sm.png");
+    background-image:url("/../img/icons/ico-logout-sm.png");
 }
 #Header .user-account .user-menu ul li:last-child{
     margin-bottom:0;
@@ -3294,7 +3294,7 @@ section.featured.search{
     padding:40px;
     padding:4rem;
     border:1px solid #d6e4a7;
-    background:url("/public/images/bg/bg-knowledge_base_bg.png") #fff repeat-x right bottom;
+    background:url("/../img/bg/bg-knowledge_base_bg.png") #fff repeat-x right bottom;
     float:left;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
@@ -3390,7 +3390,7 @@ section.featured.search{
     right:0;
     bottom:0;
     left:0;
-    background:transparent url("/public/images/bg/bg-knowledge_base_fg.png") repeat-x right bottom;
+    background:transparent url("/../img/bg/bg-knowledge_base_fg.png") repeat-x right bottom;
 }
 .knowledge-base:after{
     content:'';
@@ -3399,7 +3399,7 @@ section.featured.search{
     right:0;
     bottom:0;
     left:0;
-    background:transparent url("/public/images/bg/bg-knowledge_base.png") no-repeat right bottom;
+    background:transparent url("/../img/bg/bg-knowledge_base.png") no-repeat right bottom;
 }
 .newsletter-box{
     -webkit-box-sizing:border-box;
@@ -3414,7 +3414,7 @@ section.featured.search{
     padding:4.5rem 2.5rem 3rem;
     margin-bottom:16px;
     margin-bottom:1.6rem;
-    background:url("/public/images/patterns/pat-newsletter.png") #bf1e2e center top;
+    background:url("/../img/patterns/pat-newsletter.png") #bf1e2e center top;
     background-size:contain;
     color:#fff;
 }
@@ -3504,7 +3504,7 @@ section.featured.search{
     min-height:40px;
     min-height:4rem;
     width:100%;
-    background:url("/public/images/patterns/pat-highlighted.png") #bf1e2e center repeat;
+    background:url("/../img/patterns/pat-highlighted.png") #bf1e2e center repeat;
     color:#fff;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
@@ -3650,7 +3650,7 @@ article.content-article .article-body p{
     height:auto;
 }
 ul.banners li.facebook{
-    background:url("/public/images/patterns/pat-fb.png") #dfe3ee no-repeat right center;
+    background:url("/../img/patterns/pat-fb.png") #dfe3ee no-repeat right center;
 }
 ul.banners li.facebook .fb-like-holder{
     position:absolute;
@@ -3824,7 +3824,7 @@ header.has-filter form.type-search input[type="text"]{
     line-height:1.5;
 }
 ul.banners li.facebook{
-    background:url("/public/images/patterns/pat-fb.png") #dfe3ee no-repeat right center;
+    background:url("/../img/patterns/pat-fb.png") #dfe3ee no-repeat right center;
 }
 ul.banners li.facebook .fb-like-holder{
     position:absolute;
@@ -4012,7 +4012,7 @@ ul.action-form li .minict_wrapper{
     height:2.2rem;
     margin-top:-11px;
     margin-top:-1.1rem;
-    background:transparent url('/public/images/bg/unselect.png');
+    background:transparent url('/../img/bg/unselect.png');
     background-size:contain;
 }
 .step-number{
@@ -4028,7 +4028,7 @@ ul.action-form li .minict_wrapper{
     position:relative;
     padding:40px 45px 20px;
     padding:4rem 4.5rem 2rem;
-    background:url("/public/images/patterns/pat-place_header.png") #000 no-repeat center top;
+    background:url("/../img/patterns/pat-place_header.png") #000 no-repeat center top;
     background-size:contain;
 }
 .place-details:before{
@@ -4040,7 +4040,7 @@ ul.action-form li .minict_wrapper{
     bottom:0;
     left:0;
     z-index:0;
-    background:transparent url("/public/images/patterns/pat-place_header-bottom.png") no-repeat center bottom;
+    background:transparent url("/../img/patterns/pat-place_header-bottom.png") no-repeat center bottom;
     background-size:contain;
 }
 .place-details>*{
@@ -4084,7 +4084,7 @@ ul.action-form li .minict_wrapper{
     width:2.9rem;
     height:29px;
     height:2.9rem;
-    background:transparent url("/public/images/icons/ico-house-big.png") 0 0 no-repeat;
+    background:transparent url("/../img/icons/ico-house-big.png") 0 0 no-repeat;
     background-size:contain;
 }
 .place-details .specific-details .header a.add-to-favorites,
@@ -4340,7 +4340,7 @@ table.services.skin-table-maroon tr td.actions .btn.i-description:hover{
     border-color:#bf1e2e;
 }
 table.services.skin-table-maroon tr td.actions .btn.i-description:before{
-    background-image:url("/public/images/icons/ico-description-sm-w.png");
+    background-image:url("/../img/icons/ico-description-sm-w.png");
 }
 ul.services-group{
     list-style-type:none;
@@ -4711,7 +4711,7 @@ ul.gallery.grid-3 li{
 .register-success{
     padding:0 0 40px;
     padding:0 0 4rem;
-    background:url('/public/images/bg/bg-brand_hero2.png') 0 bottom no-repeat;
+    background:url('/../img/bg/bg-brand_hero2.png') 0 bottom no-repeat;
     background-size:contain;
 }
 .register-success>.wrapper{
@@ -4731,7 +4731,7 @@ ul.gallery.grid-3 li{
     padding:3% 8%;
     margin-bottom:20px;
     margin-bottom:2rem;
-    background:url('/public/images/bg/cloud.png') center no-repeat;
+    background:url('/../img/bg/cloud.png') center no-repeat;
     background-size:contain;
 }
 .register-success .cloud-info>*{
@@ -5171,7 +5171,7 @@ img.mfp-img{
 }
 .white-popup .wrapper.with-form{
     padding-right:30%;
-    background:transparent url("/public/images/bg/modal.png") 98% bottom no-repeat;
+    background:transparent url("/../img/bg/modal.png") 98% bottom no-repeat;
     background-size:auto 85%;
 }
 .ui-datepicker{
@@ -6691,7 +6691,7 @@ img.mfp-img{
         height:25.1rem;
     }
     .place-details{
-        background:url("/public/images/patterns/pat-place_header.png") #000 no-repeat center top;
+        background:url("/../img/patterns/pat-place_header.png") #000 no-repeat center top;
         background-size:contain;
     }
     .place-details>.image-wrapper{
