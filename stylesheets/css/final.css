@@ -1,5 +1,15 @@
 @import '../js/vendor/jquery-ui/jquery-ui-1.10.4.custom.css';
 
+
+/* 
+	Komentarz do usunięcia w przyszłości
+
+	To jest pierwotny arkusz Arka, wszystkie 
+	fixy dla zachowania porządku, choćby tymczasowo
+	wrzuciłem do arkuszu fixes.css
+*/
+
+
 html{
     font-size:10px;
 }

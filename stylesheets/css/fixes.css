@@ -1,0 +1,23 @@
+/* 
+	Komentarz do usunięcia w przyszłości
+
+	Do tego arkusza dodaję wszystkie fixy
+	oraz przenoszę w jedno miejsce wszystkie
+	inline'owe style, które znajduję w widokach.
+*/
+
+.homepage{
+
+}
+.homepage .image-wrapper img{
+width: 205px;
+height: 115px;
+}
+
+/* ======== ZNALEZIONE INLINE'Y ======== */
+.homepage p a.underlined,
+.homepage p a.underlined:hover,
+.homepage div.text-content a.btn {
+color : #ffffff;
+text-decoration: none;
+}
