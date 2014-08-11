@@ -13,6 +13,13 @@
 width: 205px;
 height: 115px;
 }
+.searchpage{
+
+}
+.encyclopedia{
+}
+.encyclopedia .category-grid>ul>li .category-item a img{
+}
 
 /* ======== ZNALEZIONE INLINE'Y ======== */
 .homepage p a.underlined,
