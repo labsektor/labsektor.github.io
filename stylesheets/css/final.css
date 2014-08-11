@@ -136,14 +136,14 @@ html,body{
 }
 #Container{
     min-height:100%;
-    margin-bottom:-121px;
-    margin-bottom:-12.1rem;
+    /* margin-bottom:-121px; */
+    /* margin-bottom:-12.1rem; */
 }
 #Container:after{
     content:'';
     display:table;
-    height:121px;
-    height:12.1rem;
+    /* height:121px; */
+    /* height:12.1rem; */
 }
 #Footer{
     max-width:100%;
