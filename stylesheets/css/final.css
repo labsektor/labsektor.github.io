@@ -1,14 +1,16 @@
-@import '../js/vendor/jquery-ui/jquery-ui-1.10.4.custom.css';
-
-
 /* 
 	Komentarz do usunięcia w przyszłości
 
 	To jest pierwotny arkusz Arka, wszystkie 
 	fixy dla zachowania porządku, choćby tymczasowo
 	wrzuciłem do arkuszu fixes.css
+	
+	Ten arkusz warto by było jeszcze okomentować
+	na przyszłość, żeby było wiadome która sekcja
+	odpowiada za jaki widok.
 */
 
+@import '../js/vendor/jquery-ui/jquery-ui-1.10.4.custom.css';
 
 html{
     font-size:10px;
@@ -3163,12 +3165,13 @@ form.login p.no-account a{
     padding:53px 4% 0;
     padding:5.3rem 4% 0;
 }
-section.featured.home-search,section.featured.search{
+section.featured.home-search,
+section.featured.search{
     min-height:188px;
     min-height:18.8rem;
     padding-top:20px;
     padding-top:2rem;
-    background:#000 url("/public/images/patterns/pat-featured.png") center bottom repeat-x;
+    background:#000 url("/../img/patterns/pat-featured.png") center bottom repeat-x;
     background-size:contain;
     text-align:center;
     color:#FFF;
